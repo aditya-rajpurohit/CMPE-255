@@ -1,0 +1,1 @@
+Medium Link: https://medium.com/@aditya-rajpurohit/unveiling-customer-segments-using-k-means-clustering-a-step-by-step-kdd-process-2d6ef85ec243
