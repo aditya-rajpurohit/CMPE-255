@@ -8,6 +8,10 @@ Explainable AI (XAI) is revolutionizing data mining by making complex machine le
 - Real-world applications in healthcare, finance, and law enforcement.
 - Challenges and future research opportunities.
 
+## Medium Article
+For a simplified explanation of the topic, you can read the article on Medium:
+[Article Link](https://medium.com/@aditya-rajpurohit/explainable-ai-in-data-mining-bridging-transparency-and-decision-making-e07c5212c6fe)
+
 ## Video Overview
 For a detailed explanation of this topic, check out the YouTube video overview:  
 [![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
