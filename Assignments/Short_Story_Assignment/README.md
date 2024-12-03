@@ -14,12 +14,12 @@ For a simplified explanation of the topic, you can read the article on Medium:
 
 ## Video Overview
 For a detailed explanation of this topic, check out the YouTube video overview:  
-[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[Video Link](https://www.youtube.com/watch?v=VIDEO_ID)
 
 ## Citation
 If you use insights from this work, please cite:  
 **"Towards Explainable Artificial Intelligence (XAI): A Data Mining Perspective."**  
-Available on arXiv: [arXiv:2401.04374](https://arxiv.org/abs/2401.04374)
+[Research Paper](https://arxiv.org/abs/2401.04374)
 
 ## Contact
 For questions or further discussions, feel free to reach out to the authors via their respective academic affiliations listed in the paper.
