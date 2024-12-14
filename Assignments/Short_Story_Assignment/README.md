@@ -14,7 +14,7 @@ For a simplified explanation of the topic, you can read the article on Medium:
 
 ## Video Overview
 For a detailed explanation of this topic, check out the YouTube video overview:  
-[Video Link](https://www.youtube.com/watch?v=VIDEO_ID)
+[Video Link](https://youtu.be/c1mmsA5LoCE)
 
 ## Citation
 If you use insights from this work, please cite:  
